@@ -7,7 +7,7 @@
 * @package Plugins
 * @subpackage static_content
 *
-* @author Leedtech | http://leedtech.com
+* @author Leedtech <http://leedtech.com>
 * @version Wolf 0.7.7
 **/
 
