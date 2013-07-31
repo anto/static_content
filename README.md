@@ -1,5 +1,5 @@
 # Static Content for Wolf CMS
-Static Content for Wolf CMS is a plugin that allows the usage of a auxillary web server to serve 'static' content from a site using Wolf CMS from another source.  Static Content for Wolf CMS introduces two new constants for use in developing layouts and themes.  The new constants are <b>URL_STATIC</b> and <b>STHEMES_URI</b>.
+Static Content for Wolf CMS is a plugin that allows the usage of a auxiliary web server to serve 'static' content from a site using Wolf CMS from another source.  Static Content for Wolf CMS introduces two new constants for use in developing layouts and themes.  The new constants are <b>URL_STATIC</b> and <b>STHEMES_URI</b>.
 
 ## History
 This plugin was developed to enable sites developed to have higher YSlow! scores without the need of setting up a seperate server to host 'static' content.
